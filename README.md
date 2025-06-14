@@ -2,7 +2,7 @@
 creat a file and name it (.env)
 put this:
 
-DB= you mongodb db link here
+DB= bring your mongodb db link here by creat account in https://cloud.mongodb.com/ 
 PORT=3000
 NODE_ENV=test
 
