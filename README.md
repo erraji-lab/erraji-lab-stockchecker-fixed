@@ -1,10 +1,13 @@
 # [ERRAJI-LAB]
-creat a file and name it (.env)
-put this:
+-creat account in https://cloud.mongodb.com/ 
+-creat a file and name it (.env)
+-put this inside .env file  
+------------------------------remove this line---------------------------
+DB= put your mongodb db link here
 
-DB= bring your mongodb db link here by creat account in https://cloud.mongodb.com/ 
 PORT=3000
+
 NODE_ENV=test
+------------------------------remove this line---------------------------
 
-
-inside .env file and then run the server and pass all 7 steps 
+and then run the server and pass all 7 steps
